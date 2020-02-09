@@ -1,4 +1,4 @@
-#  ODS Pet Project v1.0
+# ODS Pet Projects v1.0
 ----
 
 ## FAQ
